@@ -1,2 +1,3 @@
 # brutalITSM-BE-Trabls
-Сервис траблов для Brutal-ITSM
+Backend сервис для работы с траблами в brutal-ITSM \
+https://github.com/koteyye/brutalITSM
